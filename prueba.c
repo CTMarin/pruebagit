@@ -3,6 +3,6 @@
 int main() {
     printf("Hello, world!\n");
     printf("This is a git test\n");
-    printf("This is the V2 branch\n");
+    printf("New branch V2\n");
 }
 
